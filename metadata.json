@@ -1,0 +1,8 @@
+{
+  "name": "Remix: PHS Dispatch Model",
+  "description": "An interactive, high-fidelity daily simulation tool for Pumped Hydro Storage (PHS) linked to India\u0027s IEX Day-Ahead Market (DAM) price curves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
